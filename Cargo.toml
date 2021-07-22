@@ -1,11 +1,11 @@
 [package]
-name = "bigdecimal"
-version = "0.2.0"
-authors = ["Andrew Kubera"]
+name = "bigdecimal-rs"
+version = "0.2.1"
+authors = ["Andrew Kubera","dpbriggs"]
 description = "Arbitrary precision decimal numbers"
 documentation = "https://docs.rs/bigdecimal"
 homepage = "https://github.com/akubera/bigdecimal-rs"
-repository = "https://github.com/akubera/bigdecimal-rs"
+repository = "https://github.com/nash-io/bigdecimal-rs"
 keywords = ["mathematics", "numerics", "decimal", "arbitrary-precision", "floating-point"]
 license = "MIT/Apache-2.0"
 
